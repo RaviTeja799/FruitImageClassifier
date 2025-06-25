@@ -31,8 +31,8 @@ The model is built using **TensorFlow/Keras** and trained on a dataset from Kagg
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fruit-image-classifier.git
-cd fruit-image-classifier
+git clone https://github.com/RaviTeja799/FruitImageClassifier.git
+cd FruitImageClassifier
 ````
 
 ### 2. Open in Colab or Jupyter Notebook

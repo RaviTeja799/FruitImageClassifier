@@ -12,7 +12,7 @@ The model is built using **TensorFlow/Keras** and trained on a dataset from Kagg
 - 🧠 Built from scratch using CNN architecture
 - 📈 Includes training visualization (accuracy, loss)
 - 📁 Dataset: [Fruits Dataset - Kaggle](https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images)
-- 📓 Notebook: [`FruitsImageClassifier.ipynb`](./fruit_classifier.ipynb)
+- 📓 Notebook: [`FruitImageClassifier`](./FruitsImageClassifier.ipynb)
 
 ---
 
